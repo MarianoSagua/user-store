@@ -7,3 +7,5 @@ export * from "./DTOs/auth/login-user";
 export * from "./DTOs/category/create-category.DTO";
 
 export * from "./DTOs/shared/pagination.DTO";
+
+export * from "./DTOs/products/create-product.DTO";
